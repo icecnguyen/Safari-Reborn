@@ -1,0 +1,27 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and cache
+*.log
+*.tlog
+*.cache
+*.pdb
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
